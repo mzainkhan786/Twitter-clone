@@ -1,0 +1,20 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  /* color: rgb(163, 157, 157); */
+}
+.inpt-search {
+  font-size: 100;
+  background: #253648;
+  border-radius: 20px;
+  /* margin-top: 2rem; */
+  font-size: 16px;
+  font-weight: 300;
+  padding: 8px 40px;
+  /* padding-left: 40px; */
+  color: #87878a;
+}
+.inpt-search:active {
+  border: white;
+}
